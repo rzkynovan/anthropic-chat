@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 chat_memory.json
 .ipynb_checkpoints/
+.env
